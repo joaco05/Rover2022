@@ -1,0 +1,37 @@
+
+------DIRECCION-----
+
+ARRIBA    - C1AA0DF2
+ABAJO     - C1AA4DB2
+IZQUIERDA - C1AACD32
+DERECHA   - C1AA8D72
+
+--------MENU--------
+
+ENTER     - C1AAA15E
+MENU      - C1AA59A6
+ESCAPE    - C1AA21DE
+USER      - C1AAF906
+POINTER   - C1AAD926
+
+--------PAGE--------
+
+ARRIBA    - C1AA619E
+ABAJO     - C1AAE11E
+
+-------E-ZOOM-------
+
+ZOOM IN   - C1AA11EE
+ZOOM OUT  - C1AA916E
+
+-------VOLUME-------
+
+MAS       - C1AA19E6
+MENOS     - C1AA9966
+
+--------MISC--------
+
+ON/OFF    - C1AA29D6
+A/V MUTE  - C1AAC936 
+FREEZE    - C1AA49B6 
+HELLP     - C1AAA956
